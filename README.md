@@ -2,6 +2,8 @@
 
 Un modèle Blender personnalisable et un outil pour animer sa bouche à partir de votre propre voix.
 
+[Regarder le tutoriel complet sur YouTube](https://www.youtube.com/watch?v=CK3D927Pl4c)
+
 [Télécharger le kit complet](https://github.com/Baptiste59152/avatar-3d-tutoriel/releases/latest/download/Kit-Avatar-3D.zip)
 
 L’archive contient le modèle 3D modifiable, le script Avatar 3D, le guide en français et un signal sonore neutre pour tester. Décompressez le dossier avant de commencer. Le son de test contient des bips, aucune voix.
